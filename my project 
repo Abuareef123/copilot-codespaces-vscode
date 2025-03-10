@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Abdullahi Profile</title>
+</head>
+<body>
+  <h3>
+    About me:
+  </h3>
+  <img scr="/internal storage/Abdullahi passport.jpg" alt= "Abdullahi photo"
+  width="500" height="600">
+  <h6>
+    Iam Abdullahi, an electrical engineer working tirelessly to become a web developer.I am simple person with passion to learn 
+  </h6>
+  <h3>
+    Hobbies:
+  </h3>
+  <h6>
+    <ul>
+      <li>Watching movies</li>
+      <li>Reading</li>
+      <li>troubleshooting</li>
+    </ul>
+  </h6>
+  <h3>
+    Contacts:
+  </h3>
+  <h6>
+    abdullahi.isah20@yahoo.com  <br>0713501954
+  </h6>
+</body>
+</html>
