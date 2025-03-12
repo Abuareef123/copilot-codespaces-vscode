@@ -1,0 +1,62 @@
+<!--this project shows how html basic syntax are used-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Beginners guide to the web</title>
+  </head>
+  <body>
+    <header>
+        <h1>page showing basic usage of html</h1>
+      <p>
+        This page is about basic usage of html with different syntax as learned.
+      </p>
+    </header>
+
+    <main>
+    
+    <h1>My Awesome Simple Page</h1>
+
+    <p>This is a paragraph of text.</p>
+
+    <p>This paragraph contains <b>bold</b>, <i>italic</i>, and <small>small</small> text.</p>
+      
+
+    <h2>List Example</h2>
+
+    <ul>
+        <li>product 1</li>
+        <li>product 2</li>
+        <li>product 3</li>
+    </ul>
+
+    <ol>
+        <li>Step 1</li>
+        <li>Step 2</li>
+        <li>Step 3</li>
+    </ol>
+    <h2>Display Radio Buttons</h2>
+      <!--example of form tag-->  
+<form action="/action_page.php">
+  <p>Please select your favorite Web language:</p>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label>
+
+  <br>  
+
+  <p>Please select your age:</p>
+  <input type="radio" id="age1" name="age" value="30">
+  <label for="age1">0 - 30</label><br>
+  <input type="radio" id="age2" name="age" value="60">
+  <label for="age2">31 - 60</label>
+    <footer>
+        <p>&copy; 2025 My Website. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
